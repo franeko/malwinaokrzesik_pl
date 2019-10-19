@@ -30,20 +30,20 @@
 }
 
 .navbar .navbar-brand {
-    color: #a3185e;
+    color: $pink;
 }
 
 .navbar .navbar-brand:hover {
-    color: #711141;
+    color: $dark-pink;
 }
 
 .navbar .navbar-nav>li>a
 {
-    color: #179f98;
+    color: $green;
 }
 
 .navbar .navbar-nav>li>a:hover {
-    color: #a3185e;
+    color: $pink;
 }
 
 .navbar a:focus {
