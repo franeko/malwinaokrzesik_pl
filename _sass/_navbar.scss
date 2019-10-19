@@ -27,35 +27,47 @@
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     background-color: #fff;
-}
+    
+    .navbar-brand {
+        color: $pink;
+    }
 
-.navbar .navbar-brand {
-    color: $pink;
-}
+    .navbar-toggle {
+        border-color: $green;
 
-.navbar .navbar-brand:hover {
-    color: $dark-pink;
-}
+        &:focus {
+            background-color: $green;
+        }
 
-.navbar .navbar-nav>li>a
-{
-    color: $green;
-}
+        .icon-bar {
+            background-color: $pink;
+        }
+    }
 
-.navbar .navbar-nav>li>a:hover {
-    color: $pink;
-}
-
-.navbar a:focus {
-    outline: 0;
-}
-
-.navbar .navbar-nav {
-    letter-spacing: 1px;
-}
-
-.navbar .navbar-nav li a:focus {
-    outline: 0;
+    .navbar-brand:hover {
+        color: $dark-pink;
+    }
+    
+    .navbar-nav>li>a
+    {
+        color: $green;
+    }
+    
+    .navbar-nav>li>a:hover {
+        color: $pink;
+    }
+    
+    a:focus {
+        outline: 0;
+    }
+    
+    .navbar-nav {
+        letter-spacing: 1px;
+    }
+    
+    .navbar-nav li a:focus {
+        outline: 0;
+    }
 }
 
 .navbar-default,
