@@ -48,25 +48,37 @@
         color: $dark-pink;
     }
     
-    .navbar-nav>li>a
-    {
-        color: $green;
-    }
-    
-    .navbar-nav>li>a:hover {
-        color: $pink;
-    }
-    
     a:focus {
         outline: 0;
     }
     
     .navbar-nav {
         letter-spacing: 1px;
-    }
-    
-    .navbar-nav li a:focus {
-        outline: 0;
+
+        & > li > a
+        {
+            color: $green;
+
+            &:hover {
+                color: $pink;
+            }
+        }
+        
+        & > li.active > a {
+            color: $pink;
+            background-color: transparent;
+            
+            &:hover {
+                background-color: transparent;
+                color: $dark-pink;
+            }
+
+            &:focus {
+                color: $pink;
+                background-color: transparent;
+            }
+        }
+
     }
 }
 
