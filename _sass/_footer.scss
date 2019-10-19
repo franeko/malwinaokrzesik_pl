@@ -1,21 +1,38 @@
 footer {
-    color: #fff;
-}
+    background-color: transparent;
+    color: $green;
+    
+    h3 {
+        margin-bottom: 30px;
+    }
+    
+    .footer-above {
+        padding-top: 50px;
 
-footer h3 {
-    margin-bottom: 30px;
-}
+        .btn-social {
+            display: inline-block;
+            width: 50px;
+            height: 50px;
+            border: 2px solid $green;
+            border-radius: 100%;
+            text-align: center;
+            font-size: 20px;
+            line-height: 45px;
+            color: $green;
 
-footer .footer-above {
-    padding-top: 50px;
-    background-color: $pink;
-}
+            &:hover {
+                background-color: $green;
+                color: $pink;
+            }
 
-footer .footer-col {
-    margin-bottom: 50px;
-}
-
-footer .footer-below {
-    padding: 25px 0;
-    background-color: $dark-pink;
+        }
+    }
+    
+    .footer-col {
+        margin-bottom: 50px;
+    }
+    
+    .footer-below {
+        padding: 25px 0;
+    }
 }
