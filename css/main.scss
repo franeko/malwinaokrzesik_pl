@@ -3,10 +3,8 @@
 # only Main files contain this front matter, not partials.
 ---
 
-$pink: #a3185e;
-$dark-pink: #711141;
-$green: #179f98;
 
+@import 'colors';
 
 @import 'navbar';
 @import 'header';
