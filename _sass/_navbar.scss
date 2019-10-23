@@ -31,6 +31,20 @@
     .navbar-brand {
         color: $pink;
     }
+    
+    .navbar-logo {
+        float: left;
+        padding: 4px;
+        font-size: 19px;
+        line-height: 21px;
+        height: 60px;
+        display: block;
+        
+        img {
+            height: 100%;
+        }
+        display: none;
+    }
 
     .navbar-toggle {
         border-color: $green;
