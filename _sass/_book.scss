@@ -1,11 +1,15 @@
 #book {
     p {
         text-align: justify;
+        font-size: 23px;
+        line-height: 33px;
+        margin-bottom: 30px;;
     }
 
     img {
         margin: auto;    
         display: block;
         max-width: 100%;
+        margin-bottom: 30px;
     }
 }
