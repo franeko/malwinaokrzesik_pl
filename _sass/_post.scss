@@ -1,0 +1,39 @@
+.article {
+    color: $pink;
+    margin-top: 80px;
+
+    .spacer {
+        margin-bottom: 70px;
+    }
+
+    p {
+        text-align: justify;
+        font-size: 23px;
+        line-height: 33px;
+        margin-bottom: 30px;
+        .italics {
+            font-style: italic;
+        }
+
+        a,
+        a:hover,
+        a:focus,
+        a:active,
+        a.active {
+            color: $green;
+        }
+    }
+
+    img {
+        margin: auto;    
+        display: block;
+        max-width: 100%;
+        margin-bottom: 30px;
+    }
+
+    ul {
+        margin-top: -25px;
+        font-size: 23px;
+    }
+}
+  
