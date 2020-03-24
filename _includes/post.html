@@ -1,6 +1,11 @@
 <!-- Article section -->
 <section class="article">
     <div class="container">
+        {% if page.img %} 
+        <div class="row">
+            <img class="main-img" src="{{ page.img | prepend: '/img/posts/' }}" alt="{{ page.img_alt }}"/>
+        </div>
+        {% endif %}
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2>{{ page.title }}</h2>
