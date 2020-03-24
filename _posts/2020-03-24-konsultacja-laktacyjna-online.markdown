@@ -1,6 +1,6 @@
 ---
 layout: default
-date: 2014-07-18
+date: 2020-03-24
 img: online_medium.jpg
 alt: Mama karmiąca przy komputerze
 category: porady
