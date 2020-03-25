@@ -1,0 +1,9 @@
+.contact-btn {
+  color: $pink;
+  border-color: $pink;
+
+  &:hover {
+    background-color: $pink;
+    color: white;
+  }
+}

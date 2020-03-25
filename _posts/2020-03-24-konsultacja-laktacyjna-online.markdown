@@ -6,6 +6,7 @@ alt: Mama karmiąca przy komputerze
 category: porady
 description: Konsultacja laktacyjna online jest wartościowym wsparciem dla mamy i jej dziecka, gdy inne formy kontaktu są niedostępne. Korzystajcie z takiej pomocy, bo naprawdę ma sens i dużo można zrobić!
 title: Konsultacja laktacyjna online
+show_contact: true
 ---
 
 Jest wartościowym wsparciem dla mamy i jej dziecka, gdy inne formy kontaktu są niedostępne. Korzystajcie z takiej pomocy, bo naprawdę ma sens i dużo można zrobić!
