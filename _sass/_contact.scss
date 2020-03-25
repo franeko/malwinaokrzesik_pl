@@ -27,7 +27,7 @@
 
     a {
       display: block;
-      padding: 30px 0;
+      padding: 15px 0;
 
       i {
         display: inline-block;
@@ -43,9 +43,21 @@
     }
   }
 
+  .right {
+    padding: 45px 5px;
+
+    li {
+      padding: 10px 5px;
+      font-size: 18px;
+    }
+  }
 }
 
 #contactModal {
+  .modal-content {
+    overflow: hidden;
+  }
+
   .modal-body {
     padding: 0;
   }
@@ -61,11 +73,13 @@
 
   .left {
     padding: 30px;
+    padding-left: 50px;
   }
 
   .right {
     background-color: $green;
-    border-bottom-right-radius: 5px;
-    border-top-right-radius: 5px;
+    padding-left: 20px;
+
+    color: white;
   }
 }
