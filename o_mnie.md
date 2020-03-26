@@ -6,7 +6,7 @@ show_contact: true
 
 Mam 3 synów, mieszkam i pracuję w Bielsku-Białej. Z wykształcenia - magister psychologii. Jestem  instruktorką w szkole rodzenia, posiadam certyfikat konsultanta laktacyjnego  IBCLC. 
 
-Prowadzę prywatną szkołę rodzenia wraz z [poradnią laktacyjną Pod Szyndzielnią](href="https://www.szkolarodzenia.bielsko.eu/"). Pracuję na Oddziale Patologii Noworodka Szpitala Wojewódzkiego w Bielsku-Białej. Prowadzę szkolenia, warsztaty dla rodziców, położnych, douli  w tematyce laktacji ([oferta](/oferta)).
+Prowadzę prywatną szkołę rodzenia wraz z [poradnią laktacyjną Pod Szyndzielnią](https://www.szkolarodzenia.bielsko.eu/). Pracuję na Oddziale Patologii Noworodka Szpitala Wojewódzkiego w Bielsku-Białej. Prowadzę szkolenia, warsztaty dla rodziców, położnych, douli  w tematyce laktacji ([oferta](/oferta)).
 
 Od kilku lata zafascynowana jestem ideą Porozumienia Bez Przemocy, komunikacji opartej na empatii i _języku serca_. Ukończyłam Studium NVC (Nonviolence Communication) w Krakowie i nadal kształcę  się w tej dziedzinie na Studium Mediacji NVC. Wykorzystuję zdobywane  umiejętności w codziennej pracy z rodzicami małych dzieci i interdyscyplinarnym  podejściu do  opieki w okresie ciąży i po porodzie. 
 
