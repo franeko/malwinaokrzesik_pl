@@ -2,6 +2,7 @@
 layout: default
 title: Oferta
 show_contact: true
+description: Edukacja w okresie ciąży, przygotowanie do karmienia piersią. Rozwiązywanie problemów laktacyjnych. Przygotowanie do porodu.
 ---
 ### Konsultacje laktacyjne:
 
