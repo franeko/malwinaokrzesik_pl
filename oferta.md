@@ -10,14 +10,14 @@ Edukacja w okresie ciąży, przygotowanie do karmienia piersią
 
 Rozwiązywanie problemów laktacyjnych:
 
-- Trudności w układaniu dziecka przy piersi, 
+- trudności w układaniu dziecka przy piersi, 
 - karmienie po cięciu cesarskim 
-- Obawy o niedostateczną ilość pokarmu
-- Bolesność, uszkodzenia brodawek
-- Nawał pokarmu, zastój, zapalenie piersi 
-- Dziecko senne, mało aktywne, karmienie wcześniaka
-- Słaby przybór wagi, zaburzenia wzrastania
-- Niepewność, chaos informacyjny
+- obawy o niedostateczną ilość pokarmu
+- bolesność, uszkodzenia brodawek
+- nawał pokarmu, zastój, zapalenie piersi 
+- dziecko senne, mało aktywne, karmienie wcześniaka
+- słaby przybór wagi, zaburzenia wzrastania
+- niepewność, chaos informacyjny
 
 Karmienie piersią po 6 miesiącu, rozszerzanie jadłospisu
 
@@ -33,10 +33,12 @@ W formie indywidualnej i grupowej:
 - poród w szpitalu – kiedy się zgłosić, torba do szpitala,
 - połóg, poporodowe zmiany nastroju
 - karmienie piersią
-- pielęgnacja dziecka: kąpiel, noszenie, wyprawka dla malucha. 
+- pielęgnacja dziecka: kąpiel, noszenie, wyprawka dla malucha
+- radzenie sobie z bólem
+- rola osoby towarzyszącej 
 
 Przygotowanie w formie indywidualnej – program dopasowany do indywidualnych potrzeb. 
-Szczegóły programu i terminy zajęć grupowych znajsziesz [tutaj](https://www.szkolarodzenia.bielsko.eu/szkola_rodzenia_bialko_biala.html)
+Szczegóły programu i terminy zajęć grupowych znajdziesz [tutaj](https://www.szkolarodzenia.bielsko.eu/szkola_rodzenia_bialko_biala.html)
 
 {% include contactBtn.html %}
 <br>
