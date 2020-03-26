@@ -50,6 +50,11 @@
       padding: 10px 5px;
       font-size: 18px;
     }
+
+    .btn {
+      margin-left: 120px;
+      display: none;
+    }
   }
 }
 
@@ -66,8 +71,8 @@
     margin-left: 0;
     margin-right: 0;
     [class*="col-"] {
-        padding-left: 0 !important;
-        padding-right: 0 !important;
+      padding-left: 0 !important;
+      padding-right: 0 !important;
     }
   }
 
@@ -81,5 +86,9 @@
     padding-left: 20px;
 
     color: white;
+
+    .btn {
+      display: inline;
+    }
   }
 }
