@@ -23,7 +23,10 @@ Karmienie piersią po 6 miesiącu, rozszerzanie jadłospisu
 
 Zakończenie karmienia piersią
 
-Przygotowanie do porodu i opieki  nad dzieckiem w formie indywidualnej i grupowej: 
+### Przygotowanie do porodu i opieki nad dzieckiem 
+
+W formie indywidualnej i grupowej: 
+
 - ćwiczenia fizyczne, oddechowe
 - nauka relaksacji
 - etapy porodu, rola hormonów
