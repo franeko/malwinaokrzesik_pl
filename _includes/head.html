@@ -27,6 +27,20 @@
       {{ site.url | append: site.image }}
   {% endif %}" />
 
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Malwina Okrzesik Narodziny",
+    "url": "{{ page.url }}",
+    "address": "",
+    "sameAs": [
+      "{{ page.fb_page }}"
+    ]
+  }
+</script>
+
   <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
   <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" }}"> <link
   rel="stylesheet" href="{{ "/css/main.css" }}">
