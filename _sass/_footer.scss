@@ -26,9 +26,19 @@ footer {
             }
        }
     }
+
+    .footer-middle {
+        margin-bottom: 20px;
+
+        a {
+            display: inline-block;
+            text-align: center;
+            padding: 20px 10px;
+        }
+    }
     
     .footer-col {
-        margin-bottom: 50px;
+        margin-bottom: 30px;
     }
     
     .footer-below {
