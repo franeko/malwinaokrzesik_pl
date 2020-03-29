@@ -18,7 +18,17 @@
             </li>
             <li>
               <a
-                href="mailto:kontakt@malwinaokrzesik.pl"
+                href="{{ site.messenger_url }}"
+                target="_blank" rel="nofollow noopener noreferrer"
+                class="btn-social btn-outline"
+              >
+                <i class="fab fa-facebook-messenger"></i>
+                <span class="accessibility-only">Facebook</span>
+              </a>
+            </li>
+            <li>
+              <a
+                href="mailto:{{ site.email }}"
                 target="_blank" rel="nofollow noopener noreferrer"
                 class="btn-social btn-outline"
               >
@@ -28,7 +38,7 @@
             </li>
             <li>
               <a
-                href="tel:+48502127588"
+                href="tel:{{ site.phone }}"
                 target="_blank" rel="nofollow noopener noreferrer"
                 class="btn-social btn-outline"
               >

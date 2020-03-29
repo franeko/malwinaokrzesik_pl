@@ -14,16 +14,21 @@
             >
               <i class="fa fa-fw fa-facebook"></i><span>Malwina Okrzesik Narodziny</span>
             </a>
+            <a href="{{ site.fb_url }}" target="_blank" rel="nofollow noopener noreferrer" class="" >
+              <i class="fab fa-facebook-messenger"></i><span>Malwina Okrzesik</span>
+            </a>
             <a
-              href="mailto:kontakt@malwinaokrzesik.pl"
+              href="mailto:{{ site.email }}"
               target="_blank"
               rel="nofollow noopener noreferrer"
               class=""
             >
-              <i class="fa fa-fw fa-envelope"></i><span>kontakt@malwinaokrzesik.pl</span>
+              <i class="fa fa-fw fa-envelope"></i><span>{{ site.email }}</span>
             </a>
-            <a href="tel:+48502127588" target="_blank" class="" rel="nofollow noopener noreferrer">
-              <i class="fa fa-fw fa-phone"></i><span>+48 502 127 588</span>
+            <a href="tel:{{ site.phone }}" target="_blank" class="" rel="nofollow noopener noreferrer">
+              <i class="fa fa-fw fa-phone"></i><span>
+                {{ site.phone | slice: 0, 3 }} {{ site.phone | slice: 3, 3 }} {{ site.phone | slice: 6, 3 }} {{ site.phone | slice: 9, 3 }}
+              </span>
             </a>
           </div>
         </div>
