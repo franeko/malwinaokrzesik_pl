@@ -34,7 +34,8 @@ Robię notatki, aby zapamiętać wszystkie istotne fakty i żeby nasze spotkanie
 
 Pytaj o wszystko, co Cię niepokoi, czego nie wiesz, albo co wymaga wyjaśnienia, ze względu na sprzeczne informacje jakie dostajesz od innych.
 
-Moim celem jest, abyś na koniec konsultacji czuła się pewniej i wiedziała, co może pomóc Ci pokonać obecne trudności. **Omawiamy „plan działania”** na najbliższe dni. Spisane uwagi przesyłam mailem do 24 godzin po spotkaniu. Dołączam linki do wartościowych materiałów w sieci, które poszerzają wiedzę na temat omawianych zagadnień.
+Moim celem jest, abyś na koniec konsultacji czuła się pewniej i wiedziała, co może pomóc Ci pokonać obecne trudności. **Omawiamy „plan działania”** na najbliższe dni. Spisane uwagi przesyłam mailem do 24 godzin po spotkaniu. Dołączam linki do wartościowych materiałów w sieci, które poszerzają wiedzę na temat omawianych zagadnień. W mailu przekażę też
+szczegółowe informacje dotyczące płatności.
 
 W ramach porady oferuję też doraźne, krótkie wsparcie smsowe czy online na najbliższe dni. Jeśli będzie potrzebna dłuższa rozmowa – umawiamy się na kolejne spotkanie.
 
