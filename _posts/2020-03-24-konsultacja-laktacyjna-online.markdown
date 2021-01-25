@@ -13,7 +13,7 @@ Jest wartościowym wsparciem dla mamy i jej dziecka, gdy inne formy kontaktu są
 
 Jak wygląda takie spotkanie ze mną ?
 
-Ustalamy termin, tak, jak Ci najbardziej pasuje i kiedy ja jestem dostępna. Łączymy się za pomocą Skype, Facebooka, WhatsAppa, Facetime. Kamerka jest bardzo przydatna – ułatwia nam kontakt wzrokowy i nawiązanie relacji. Na wiele pytań mogę odpowiedzieć podczas dłuższej rozmowy telefonicznej i w takiej formie również udzielam porad.
+Ustalamy termin, tak, jak Ci najbardziej pasuje i kiedy ja jestem dostępna. Łączymy się za pomocą komunikatora Zoom lub WhatsAppa. Kamerka jest bardzo przydatna – ułatwia nam kontakt wzrokowy i nawiązanie relacji. Na wiele pytań mogę odpowiedzieć podczas dłuższej rozmowy telefonicznej i w takiej formie również udzielam porad.
 
 **Słucham, z czym do mnie przychodzisz**, z czym masz trudność i z czym sobie nie radzisz, jak się z tym czujesz i czego oczekujesz ode mnie podczas spotkania.
 
