@@ -55,6 +55,6 @@ z dojazdem do 15km od centrum Bielska-Białej<br>
 powyżej – dodatkowo 1zł za 1km powyżej 15km
 
 Konsultacje online/telefoniczna - **120zł** (cena za 60min, czas trwania w zależności od potrzeb)
-- konsultacja laktacyjna ([link](/porady/2020/03/24/konsultacja-laktacyjna-online/))
+- konsultacja laktacyjna ([opis](/porady/2020/03/24/konsultacja-laktacyjna-online/))
 - wsparcie psychologiczne
 - indywidualne przygotowanie do porodu
