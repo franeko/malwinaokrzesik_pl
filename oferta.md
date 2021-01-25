@@ -25,17 +25,18 @@ Zakończenie karmienia piersią
 
 ### Przygotowanie do porodu i opieki nad dzieckiem 
 
-W formie indywidualnej i grupowej: 
+Program dopasowany do indywidualnych potrzeb. Proponowane zagadnienia:
 
 - ćwiczenia fizyczne, oddechowe
 - nauka relaksacji
 - etapy porodu, rola hormonów
 - poród w szpitalu – kiedy się zgłosić, torba do szpitala,
+- przygotowanie do cięcia cesarskiego
 - połóg, poporodowe zmiany nastroju
 - karmienie piersią
 - pielęgnacja dziecka: kąpiel, noszenie, wyprawka dla malucha
 - radzenie sobie z bólem
-- rola osoby towarzyszącej 
+- rola osoby towarzyszącej
 
 Przygotowanie w formie indywidualnej – program dopasowany do indywidualnych potrzeb. 
 Szczegóły programu i terminy zajęć grupowych znajdziesz [tutaj](https://www.szkolarodzenia.bielsko.eu/szkola_rodzenia_bialko_biala.html)
@@ -46,18 +47,14 @@ Szczegóły programu i terminy zajęć grupowych znajdziesz [tutaj](https://www.
 
 ### Cennik
 
-Konsultacja laktacyjna [online](/porady/2020/03/24/konsultacja-laktacyjna-online/)/telefoniczna (60 min) - **120zł**
-
-Konsultacja laktacyjna:
-- w poradni (60 - 90 min) - **120zł**
-- w domu (90 – 120 min) - **200zł** <br> 
+Wizyty domowe - **200zł** (90 – 120 min)
+- konsultacja laktacyjna
+- przygotowanie do porodu
+- wsparcie psychologiczne 
 z dojazdem do 15km od centrum Bielska-Białej<br>
 powyżej – dodatkowo 1zł za 1km powyżej 15km
 
-Wsparcie psychologiczne w poradni/oline (60 min) - **120zł**
-
-Indywidualne przygotowanie do porodu w poradni/online (60 min) - **80zł**
-
-Szkoła Rodzenia:<br>
-- kurs grupowy, 11 spotkań (para) - **380zł**, 
-- kurs jednodniowy (para) - **240zł**
+Konsultacje online/telefoniczna - **120zł** (cena za 60min, czas trwania w zależności od potrzeb)
+- konsultacja laktacyjna ([link](/porady/2020/03/24/konsultacja-laktacyjna-online/))
+- wsparcie psychologiczne
+- indywidualne przygotowanie do porodu
