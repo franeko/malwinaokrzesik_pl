@@ -17,6 +17,7 @@ Czy w Twojej zawodowej praktyce:
 - trudno Ci postawić granice, gdy jesteście w kontakcie telefonicznym i matka zasypuje Cię smsami?
 
 {% include btn.html text="Zapisz się" href="https://docs.google.com/forms/d/1NlbVF2YV2jKhYmi-aco_1Ys1Tj_uNSITGWAKkcFgCB4/viewform?gxids=7628&edit_requested=true" target="_blank" %}
+<br>
 
 Zapraszam do podróży, której celem jest m.in. przyjrzenie się tym zagadnieniom oraz Twojemu warsztatowi pracy jako profesjonalistki wspierającej w karmieniu piersią. To spotkanie ze sobą, otwarcie głowy oraz serca i poszukiwanie odpowiedzi na pytania: Kim jestem w praktyce zawodowej? Jak działam w relacji z mamą karmiącą i jak się z nią komunikuję? Jak mogę się rozwijać, aby praca dawała mi ciągle radość?
 
