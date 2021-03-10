@@ -38,7 +38,7 @@ Przygotowanie w formie indywidualnej – program dopasowany do potrzeb. Proponow
 - radzenie sobie z bólem
 - rola osoby towarzyszącej
 
-{% include contactBtn.html %}
+{% include btn.html text="Kontakt" href="/kontakt/" class="show-contact-btn" %}
 <br>
 <br>
 
