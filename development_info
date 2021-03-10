@@ -1,0 +1,3 @@
+Installation: https://jekyllrb.com/docs/installation/windows/
+
+bundle exec jekyll serve
