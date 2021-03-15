@@ -59,7 +59,7 @@ Dzięki warsztatom
 **Dla kogo:** osoby zajmujące się zawodowo wspieraniem mam karmiących (doświadczenie minimum 2 lata) <br>
 **Termin I edycji:** sobota, 20 marca 2021, godz. 9.30 – 16.30 <br>
 **Czas:** 6 godzin, 9.30 – 16.30 (dwie przerwy 11.30-11.45, 13.45-14.30) <br>
-**Liczba uczestniczek:** 6-12 <br>
+**Liczba uczestniczek:** 6 - 12 <br>
 **Inwestycja:** 600 zł (cena promocyjna I edycji), płatne przelewem po potwierdzeniu przyjęcia zgłoszenia, decyduje kolejność zgłoszeń
 
 **Wydarzenie odbywa się przy użyciu platformy Zoom i będzie nagrywane. Nagranie będzie dostępne przez miesiąc wyłącznie dla uczestniczek warsztatów oraz osoby prowadzącej.**
