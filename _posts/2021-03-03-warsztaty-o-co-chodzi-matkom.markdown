@@ -54,7 +54,7 @@ Dzięki warsztatom
 - Z większą łatwością i swobodą zbudujesz kontakt z mamą karmiącą
 - Wyposażysz się we wspólnie opracowany "pakiet" dobrych praktyk, dobrych słów i wspierających działań do zastosowania przez Ciebie "od zaraz"
 - Twoje zaangażowanie w pracę da Ci więcej radości, siły i wolności
-- Zbudujesz zawodową "wioskę wsparcia"
+- Zbudujesz zawodową "wioskę wsparcia" (zaproszenie do  zamkniętej grupy mentoringowej dla uczestniczek warsztatów)
 
 **Dla kogo:** osoby zajmujące się zawodowo wspieraniem mam karmiących (doświadczenie minimum 2 lata) <br>
 **Termin I edycji:** sobota, 20 marca 2021, godz. 9.30 – 16.30 <br>
