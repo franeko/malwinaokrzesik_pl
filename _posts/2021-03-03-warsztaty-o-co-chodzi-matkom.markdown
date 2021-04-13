@@ -21,14 +21,11 @@ Czy w Twojej zawodowej praktyce:
 <div class="row">
     <div class="col-md-10 col-md-offset-1">
         <div class="row">
-            <div class="col-md-4">
-                {% include btn.html text="20 marca" style="width: 100%;" href="https://docs.google.com/forms/d/1NlbVF2YV2jKhYmi-aco_1Ys1Tj_uNSITGWAKkcFgCB4/viewform?gxids=7628&edit_requested=true" target="_blank" %}
+            <div class="col-md-4 col-md-offset-2">
+                {% include btn.html text="15 maja" style="width: 100%;" href="https://docs.google.com/forms/d/e/1FAIpQLSczpCTMBOldH3rYZk6oMP-5Y0fXj9pD_W6rsbtG58M7vG95_g/viewform" target="_blank" %}
             </div>
             <div class="col-md-4">
-                {% include btn.html text="10 kwietnia" style="width: 100%;" href="https://docs.google.com/forms/d/14401SS89ADV1iTJpE93G3UZXKWhylSuFhsY63gmpgpQ/viewform?edit_requested=true" target="_blank" %}
-            </div>
-            <div class="col-md-4">
-                {% include btn.html text="Kolejne edycje" style="width: 100%;" href="https://docs.google.com/forms/d/1S1ulpbuy3RZ2KfeqDYZJ-5Afm7-qtrsTN07CA7FoRQM/viewform?edit_requested=true" target="_blank" %}
+                {% include btn.html text="Kolejne edycje" style="width: 100%;" href="https://docs.google.com/forms/d/1S1ulpbuy3RZ2KfeqDYZJ-5Afm7-qtrsTN07CA7FoRQM/viewform" target="_blank" %}
             </div>
         </div>
     </div>
@@ -57,10 +54,10 @@ Dzięki warsztatom
 - Zbudujesz zawodową "wioskę wsparcia" (zaproszenie do  zamkniętej grupy mentoringowej dla uczestniczek warsztatów)
 
 **Dla kogo:** osoby zajmujące się zawodowo wspieraniem mam karmiących (doświadczenie minimum 2 lata) <br>
-**Termin I edycji:** sobota, 20 marca 2021, godz. 9.30 – 16.30 <br>
+**Termin II edycji:** sobota, 15 maja 2021, godz. 9.30 – 16.30 <br>
 **Czas:** 6 godzin, 9.30 – 16.30 (dwie przerwy 11.30-11.45, 13.45-14.30) <br>
 **Liczba uczestniczek:** 6 - 12 <br>
-**Inwestycja:** 600 zł (cena promocyjna I edycji), płatne przelewem po potwierdzeniu przyjęcia zgłoszenia, decyduje kolejność zgłoszeń
+**Inwestycja:** 600 zł, płatne przelewem po potwierdzeniu przyjęcia zgłoszenia, decyduje kolejność zgłoszeń
 
 **Wydarzenie odbywa się przy użyciu platformy Zoom i będzie nagrywane. Nagranie będzie dostępne przez miesiąc wyłącznie dla uczestniczek warsztatów oraz osoby prowadzącej.**
 
@@ -71,14 +68,11 @@ Udział w warsztacie pozwala na indywidualne ubieganie się o 6 L- CERP dla kons
 <div class="row">
     <div class="col-md-10 col-md-offset-1">
         <div class="row">
-            <div class="col-md-4">
-                {% include btn.html text="20 marca" style="width: 100%;" href="https://docs.google.com/forms/d/1NlbVF2YV2jKhYmi-aco_1Ys1Tj_uNSITGWAKkcFgCB4/viewform?gxids=7628&edit_requested=true" target="_blank" %}
+            <div class="col-md-4 col-md-offset-2">
+                {% include btn.html text="15 maja" style="width: 100%;" href="https://docs.google.com/forms/d/e/1FAIpQLSczpCTMBOldH3rYZk6oMP-5Y0fXj9pD_W6rsbtG58M7vG95_g/viewform" target="_blank" %}
             </div>
             <div class="col-md-4">
-                {% include btn.html text="10 kwietnia" style="width: 100%;" href="https://docs.google.com/forms/d/14401SS89ADV1iTJpE93G3UZXKWhylSuFhsY63gmpgpQ/viewform?edit_requested=true" target="_blank" %}
-            </div>
-            <div class="col-md-4">
-                {% include btn.html text="Kolejne edycje" style="width: 100%;" href="https://docs.google.com/forms/d/1S1ulpbuy3RZ2KfeqDYZJ-5Afm7-qtrsTN07CA7FoRQM/viewform?edit_requested=true" target="_blank" %}
+                {% include btn.html text="Kolejne edycje" style="width: 100%;" href="https://docs.google.com/forms/d/1S1ulpbuy3RZ2KfeqDYZJ-5Afm7-qtrsTN07CA7FoRQM/viewform" target="_blank" %}
             </div>
         </div>
     </div>
