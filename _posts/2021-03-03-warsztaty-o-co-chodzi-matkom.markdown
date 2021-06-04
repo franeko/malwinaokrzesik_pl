@@ -22,7 +22,7 @@ Czy w Twojej zawodowej praktyce:
     <div class="col-md-10 col-md-offset-1">
         <div class="row">
             <div class="col-md-4 col-md-offset-2">
-                {% include btn.html text="15 maja" style="width: 100%;" href="https://docs.google.com/forms/d/e/1FAIpQLSczpCTMBOldH3rYZk6oMP-5Y0fXj9pD_W6rsbtG58M7vG95_g/viewform" target="_blank" %}
+                {% include btn.html text="10 lipca" style="width: 100%;" href="https://docs.google.com/forms/d/e/1FAIpQLSczpCTMBOldH3rYZk6oMP-5Y0fXj9pD_W6rsbtG58M7vG95_g/viewform" target="_blank" %}
             </div>
             <div class="col-md-4">
                 {% include btn.html text="Kolejne edycje" style="width: 100%;" href="https://docs.google.com/forms/d/1S1ulpbuy3RZ2KfeqDYZJ-5Afm7-qtrsTN07CA7FoRQM/viewform" target="_blank" %}
@@ -54,7 +54,7 @@ Dzięki warsztatom
 - Zbudujesz zawodową "wioskę wsparcia" (zaproszenie do  zamkniętej grupy mentoringowej dla uczestniczek warsztatów)
 
 **Dla kogo:** osoby zajmujące się zawodowo wspieraniem mam karmiących (doświadczenie minimum 2 lata) <br>
-**Termin II edycji:** sobota, 15 maja 2021, godz. 9.30 – 16.30 <br>
+**Termin II edycji:** sobota, 10 lipca 2021, godz. 9.30 – 16.30 <br>
 **Czas:** 6 godzin, 9.30 – 16.30 (dwie przerwy 11.30-11.45, 13.45-14.30) <br>
 **Liczba uczestniczek:** 6 - 12 <br>
 **Inwestycja:** 600 zł, płatne przelewem po potwierdzeniu przyjęcia zgłoszenia, decyduje kolejność zgłoszeń
@@ -69,7 +69,7 @@ Udział w warsztacie pozwala na indywidualne ubieganie się o 6 L- CERP dla kons
     <div class="col-md-10 col-md-offset-1">
         <div class="row">
             <div class="col-md-4 col-md-offset-2">
-                {% include btn.html text="15 maja" style="width: 100%;" href="https://docs.google.com/forms/d/e/1FAIpQLSczpCTMBOldH3rYZk6oMP-5Y0fXj9pD_W6rsbtG58M7vG95_g/viewform" target="_blank" %}
+                {% include btn.html text="10 lipca" style="width: 100%;" href="https://docs.google.com/forms/d/e/1FAIpQLSczpCTMBOldH3rYZk6oMP-5Y0fXj9pD_W6rsbtG58M7vG95_g/viewform" target="_blank" %}
             </div>
             <div class="col-md-4">
                 {% include btn.html text="Kolejne edycje" style="width: 100%;" href="https://docs.google.com/forms/d/1S1ulpbuy3RZ2KfeqDYZJ-5Afm7-qtrsTN07CA7FoRQM/viewform" target="_blank" %}
