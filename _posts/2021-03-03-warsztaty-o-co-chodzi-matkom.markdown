@@ -55,6 +55,7 @@ Dzięki warsztatom
 
 **Dla kogo:** osoby zajmujące się zawodowo wspieraniem mam karmiących (doświadczenie minimum 2 lata) <br>
 **Termin II edycji:** sobota, 10 lipca 2021, godz. 9.30 – 16.30 <br>
+**Termin przyjmowania zgłoszeń:** 1 lipca, decyduje kolejność zgłoszeń <br>
 **Czas:** 6 godzin, 9.30 – 16.30 (dwie przerwy 11.30-11.45, 13.45-14.30) <br>
 **Liczba uczestniczek:** 6 - 12 <br>
 **Inwestycja:** 600 zł, płatne przelewem po potwierdzeniu przyjęcia zgłoszenia, decyduje kolejność zgłoszeń
