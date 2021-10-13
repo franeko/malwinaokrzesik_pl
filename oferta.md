@@ -39,22 +39,39 @@ Przygotowanie w formie indywidualnej – program dopasowany do potrzeb. Proponow
 - rola osoby towarzyszącej
 
 {% include btn.html text="Kontakt" href="/kontakt/" class="show-contact-btn" %}
+
 <br>
+<hr/>
 <br>
 
 ### Cennik
 
-**Wizyty domowe - 200zł** (90 – 120 min)
+**Wizyty domowe - 250zł** (ok. 2 godziny)
 - konsultacja laktacyjna
 - przygotowanie do porodu
 - wsparcie psychologiczne 
 
-_z dojazdem do 15km od centrum Bielska-Białej_<br>
-_powyżej – dodatkowo 1zł za 1km powyżej 15km_
+_w cenę wliczony jest dojazd do 15 km od centrum Bielska-Białej_<br>
+_powyżej – dodatkowo 2 zł za 1 kilometr powyżej 15 km, liczone w obie strony_
 
-**Konsultacje online/telefoniczna - 120zł** (60 min)
+<hr/>
+
+**Konsultacje online/telefoniczna - 140zł** (60 min)
 - konsultacja laktacyjna ([opis](/porady/2020/03/24/konsultacja-laktacyjna-online/))
 - wsparcie psychologiczne
 - indywidualne przygotowanie do porodu
 
-_czas trwania w zależności od potrzeb_
+_czas trwania w zależności od potrzeb, koszt liczony wg czasu proporcjonalnie do stawki za godzinę (np. 30 minut - 70 zł, 15 minut - 35 zł)_
+
+<hr/>
+
+**Porady laktacyjne stacjonarnie - 180zł** (1,5 godziny)
+- raz w tygodniu, w środy
+
+Gniazdo - Specjalistyczne Centrum Mamy Taty i Dziecka, <a href="https://goo.gl/maps/6cVd3S6L4Xo6VxxU7">Żywiec, ul.&nbsp;Ks.&nbsp;Słonki&nbsp;22</a>
+
+_rezerwacja terminu w rejestracji Centrum Gniazdo, czynne 8.00-18.00, tel.&nbsp;<a href="tel:+48660 107 008">660&nbsp;107&nbsp;008</a>_
+
+<hr/>
+
+Terminy wizyt domowych, online i telefonicznych umawiaj bezpośrednio ze mną korzystając z linku  poniżej.

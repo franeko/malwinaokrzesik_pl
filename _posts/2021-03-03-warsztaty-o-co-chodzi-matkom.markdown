@@ -16,21 +16,7 @@ Czy w Twojej zawodowej praktyce:
 - nie rozumiesz, dlaczego matka, która deklaruje, że chce karmić piersią oraz dostała od Ciebie sporo przydatnych wskazówek i poświęciłaś jej mnóstwo czasu, podaje mimo to butelkę, gdy dziecko tylko trochę zapłacze?
 - trudno Ci postawić granice, gdy jesteście w kontakcie telefonicznym i matka zasypuje Cię smsami?
 
-<h3 style="text-align: center">Zapisz się</h3>
-
-<div class="row">
-    <div class="col-md-10 col-md-offset-1">
-        <div class="row">
-            <div class="col-md-4 col-md-offset-4">
-                {% include btn.html text="10 lipca" style="width: 100%;" href="https://docs.google.com/forms/d/e/1FAIpQLSczpCTMBOldH3rYZk6oMP-5Y0fXj9pD_W6rsbtG58M7vG95_g/viewform" target="_blank" %}
-            </div>
-            <!-- <div class="col-md-4">
-                {% include btn.html text="Kolejne edycje" style="width: 100%;" href="https://docs.google.com/forms/d/1S1ulpbuy3RZ2KfeqDYZJ-5Afm7-qtrsTN07CA7FoRQM/viewform" target="_blank" %}
-            </div> -->
-        </div>
-    </div>
-</div>
-<br>
+<hr/>
 
 Zapraszam do podróży, której celem jest m.in. przyjrzenie się tym zagadnieniom oraz Twojemu warsztatowi pracy jako profesjonalistki wspierającej w karmieniu piersią. To spotkanie ze sobą, otwarcie głowy oraz serca i poszukiwanie odpowiedzi na pytania: Kim jestem w praktyce zawodowej? Jak działam w relacji z mamą karmiącą i jak się z nią komunikuję? Jak mogę się rozwijać, aby praca dawała mi ciągle radość?
 
@@ -54,27 +40,17 @@ Dzięki warsztatom
 - Zbudujesz zawodową "wioskę wsparcia" (zaproszenie do  zamkniętej grupy mentoringowej dla uczestniczek warsztatów)
 
 **Dla kogo:** osoby zajmujące się zawodowo wspieraniem mam karmiących (doświadczenie minimum 2 lata) <br>
-**Termin II edycji:** sobota, 10 lipca 2021, godz. 9.30 – 16.30 <br>
-**Termin przyjmowania zgłoszeń:** 1 lipca, decyduje kolejność zgłoszeń <br>
 **Czas:** 6 godzin, 9.30 – 16.30 (dwie przerwy 11.30-11.45, 13.45-14.30) <br>
 **Liczba uczestniczek:** 6 - 12 <br>
 **Inwestycja:** 600 zł, płatne przelewem po potwierdzeniu przyjęcia zgłoszenia, decyduje kolejność zgłoszeń
 
 **Wydarzenie odbywa się przy użyciu platformy Zoom i będzie nagrywane. Nagranie będzie dostępne przez miesiąc wyłącznie dla uczestniczek warsztatów oraz osoby prowadzącej.**
 
-Udział w warsztacie pozwala na indywidualne ubieganie się o 6 L- CERP dla konsultantek IBCLC i kandydatek do egzaminu IBLCE w dziedzinie umiejętności komunikacyjnych.
+Oferuję przeprowadzenie warsztatów również w formie stacjonarnej.
 
-<h3 style="text-align: center">Zapisz się</h3>
+<hr/>
 
-<div class="row">
-    <div class="col-md-10 col-md-offset-1">
-        <div class="row">
-            <div class="col-md-4 col-md-offset-4">
-                {% include btn.html text="10 lipca" style="width: 100%;" href="https://docs.google.com/forms/d/e/1FAIpQLSczpCTMBOldH3rYZk6oMP-5Y0fXj9pD_W6rsbtG58M7vG95_g/viewform" target="_blank" %}
-            </div>
-            <!-- <div class="col-md-4">
-                {% include btn.html text="Kolejne edycje" style="width: 100%;" href="https://docs.google.com/forms/d/1S1ulpbuy3RZ2KfeqDYZJ-5Afm7-qtrsTN07CA7FoRQM/viewform" target="_blank" %}
-            </div> -->
-        </div>
-    </div>
-</div>
+Napisz do mnie, jeśli: 
+- jesteś zainteresowana udziałem w warsztacie online - poinformuję Cię o kolejnych terminach
+- chcesz zorganizować stacjonarnie grupę warsztatową w swoim mieście 
+- potrzebujesz indywidualnego wsparcia w zawodowym rozwoju
