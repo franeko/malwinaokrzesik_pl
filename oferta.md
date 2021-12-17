@@ -66,7 +66,7 @@ _czas trwania w zależności od potrzeb, koszt liczony wg czasu proporcjonalnie 
 
 <hr/>
 
-**Porady laktacyjne stacjonarnie w Żywcu - koszt 200zł** (1,5 godziny)
+**Porady laktacyjne stacjonarnie w Żywcu - 200zł** (1,5 godziny)
 - raz w tygodniu, w środy
 
 Gniazdo - Specjalistyczne Centrum Mamy Taty i Dziecka, <a href="https://goo.gl/maps/6cVd3S6L4Xo6VxxU7">Żywiec, ul.&nbsp;Ks.&nbsp;Słonki&nbsp;22</a>
