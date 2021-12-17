@@ -52,7 +52,8 @@ Przygotowanie w formie indywidualnej – program dopasowany do potrzeb. Proponow
 - wsparcie psychologiczne 
 
 _w cenę wliczony jest dojazd do 15 km od centrum Bielska-Białej_<br>
-_powyżej – dodatkowo 2 zł za 1 kilometr powyżej 15 km, liczone w obie strony_
+_powyżej – dodatkowo 2 zł za 1 kilometr powyżej 15 km, liczone w obie strony_<br>
+_dojeżdżam maksymalnie 50 km od Bielska-Białej (m.in. Żywiec, Cieszyn, Pszczyna, Oświęcim, Andrychów i okolice tych miejscowości)_
 
 <hr/>
 
@@ -65,7 +66,7 @@ _czas trwania w zależności od potrzeb, koszt liczony wg czasu proporcjonalnie 
 
 <hr/>
 
-**Porady laktacyjne stacjonarnie - 180zł** (1,5 godziny)
+**Porady laktacyjne stacjonarnie w Żywcu - koszt 200zł** (1,5 godziny)
 - raz w tygodniu, w środy
 
 Gniazdo - Specjalistyczne Centrum Mamy Taty i Dziecka, <a href="https://goo.gl/maps/6cVd3S6L4Xo6VxxU7">Żywiec, ul.&nbsp;Ks.&nbsp;Słonki&nbsp;22</a>
