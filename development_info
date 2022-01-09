@@ -1,3 +1,4 @@
 Installation: https://jekyllrb.com/docs/installation/windows/
 
+budnle install
 bundle exec jekyll serve
