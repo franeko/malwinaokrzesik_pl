@@ -4,39 +4,59 @@ title: Oferta
 show_contact: true
 description: Edukacja w okresie ciąży, przygotowanie do karmienia piersią. Rozwiązywanie problemów laktacyjnych. Przygotowanie do porodu.
 ---
-### Konsultacje laktacyjne:
 
-Edukacja w okresie ciąży, przygotowanie do karmienia piersią
+W czym i kiedy pomagam?
 
-Rozwiązywanie problemów laktacyjnych:
+**_Gdy jesteś w ciąży i chcesz przygotować się do karmienia piersią:_**
 
-- trudności w układaniu dziecka przy piersi, 
-- karmienie po cięciu cesarskim 
-- obawy o niedostateczną ilość pokarmu
-- bolesność, uszkodzenia brodawek
-- nawał pokarmu, zastój, zapalenie piersi 
-- dziecko senne, mało aktywne, karmienie wcześniaka
-- słaby przybór wagi, zaburzenia wzrastania
-- niepewność, chaos informacyjny
+- masz wątpliwości, pytania odnośnie karmienia dziecka po
+porodzie i chcesz uporządkować /poszerzyć swoją wiedzę
+- nie karmiłaś piersią pierwszego dziecka i oczekujesz na kolejne a
+bardzo Ci zależy, żeby tym razem się udało
+<br><br>
 
-Karmienie piersią po 6 miesiącu, rozszerzanie jadłospisu
 
-Zakończenie karmienia piersią
+**_Gdy już urodziłaś i czujesz się niepewnie w karmieniu piersią:_**
 
-### Przygotowanie do porodu i opieki nad dzieckiem 
+- trudno Ci znaleźć wygodną pozycję do karmienia np. po cesarskim cięciu, gdy masz nacięte krocze
+- masz trudności w karmieniu i chaos w głowie, bo każdy mówi/radzi co innego
+- wydaje Ci się, że masz mało mleka i dziecko jest głodne 
+- bolą Cię brodawki
+- maluch jest senny, „wisi na piersi” lub odwrotnie – odrywa się, nie chce ssać
+- dziecko nie przybiera na wadze, a nie chcesz podawać mieszanki
+- masz bliźniaki i nie wiesz jak zrobić, żeby karmienie było wygodne i skuteczne
+- chcesz przejść z karmienia butelką na pierś
+<br><br>
 
-Przygotowanie w formie indywidualnej – program dopasowany do potrzeb. Proponowane zagadnienia:
+**_Gdy karmisz  starsze dziecko:_**
 
-- ćwiczenia fizyczne, oddechowe
-- nauka relaksacji
-- etapy porodu, rola hormonów
-- poród w szpitalu – kiedy się zgłosić, torba do szpitala,
-- przygotowanie do cięcia cesarskiego
-- połóg, poporodowe zmiany nastroju
-- karmienie piersią
-- pielęgnacja dziecka: kąpiel, noszenie, wyprawka dla malucha
-- radzenie sobie z bólem
-- rola osoby towarzyszącej
+- chcesz więcej wiedzieć o rozszerzaniu diety
+- obawiasz, czy po roku karmienie piersią jest dobre dla dziecka
+- zastanawiasz się  jak łagodnie zakończyć karmienie piersią
+<br><br>
+
+**_Gdy potrzebujesz wsparcia emocjonalnego na każdym etapie macierzyństwa: w ciąży, w połogu i późniejszym okresie:_**
+
+- masz baby blues, dużo płaczesz, niepokoją cię gwałtowne zmiany nastroju
+- często jesteś zagubiona, bezradna, nie potrafisz rozpoznać potrzeb dziecka 
+- Twoje dziecko dużo płacze i czujesz się „złą matką”
+- podejrzewasz u siebie depresję poporodową
+- trudno ci się odnaleźć w roli mamy, nie czujesz „instynktu macierzyńskiego”
+- szukasz równowagi między dobrą opieką nad dzieckiem a innymi swoimi aktywnościami (np. sport, hobby, praca, nauka) 
+<br><br>
+
+**_Gdy chcesz przygotować się do porodu i opieki nad dzieckiem_**<br>
+_program „szkoły rodzenia” dopasowany do indywidualnych potrzeb – wybierasz zagadnienia, które Ciebie interesują_
+
+- na co zwrócić uwagę wybierając miejsca do porodu, co spakować do torby do szpitala
+- jakie są kolejne  etapy porodu i jaką rolę pełnią hormony
+- jak pomóc sobie w czasie porodu ruchem i oddechem 
+- jak radzić  sobie z bólem i na czym polega relaksacja
+- co trzeba wiedzieć, jeśli poród ma się odbyć poprzez cięcie cesarskie
+- jak zadbać o siebie w połogu, co to są poporodowe zmiany nastroju
+- dlaczego warto i jak karmić piersią  
+- ćwiczenia praktyczne na lalce dotyczące karmienia i pielęgnacji dziecka: jak je przystawiać do piersi, jak kąpać i bezpiecznie nosić
+- co warto kupić i jakie niezbędne rzeczy powinny znaleźć się w wyprawce
 
 {% include btn.html text="Kontakt" href="/kontakt/" class="show-contact-btn" %}
 
