@@ -43,20 +43,6 @@ bardzo Ci zależy, żeby tym razem się udało
 - podejrzewasz u siebie depresję poporodową
 - trudno ci się odnaleźć w roli mamy, nie czujesz „instynktu macierzyńskiego”
 - szukasz równowagi między dobrą opieką nad dzieckiem a innymi swoimi aktywnościami (np. sport, hobby, praca, nauka) 
-<br><br>
-
-**_Gdy chcesz przygotować się do porodu i opieki nad dzieckiem_**<br>
-_program „szkoły rodzenia” dopasowany do indywidualnych potrzeb – wybierasz zagadnienia, które Ciebie interesują_
-
-- na co zwrócić uwagę wybierając miejsca do porodu, co spakować do torby do szpitala
-- jakie są kolejne  etapy porodu i jaką rolę pełnią hormony
-- jak pomóc sobie w czasie porodu ruchem i oddechem 
-- jak radzić  sobie z bólem i na czym polega relaksacja
-- co trzeba wiedzieć, jeśli poród ma się odbyć poprzez cięcie cesarskie
-- jak zadbać o siebie w połogu, co to są poporodowe zmiany nastroju
-- dlaczego warto i jak karmić piersią  
-- ćwiczenia praktyczne na lalce dotyczące karmienia i pielęgnacji dziecka: jak je przystawiać do piersi, jak kąpać i bezpiecznie nosić
-- co warto kupić i jakie niezbędne rzeczy powinny znaleźć się w wyprawce
 
 {% include btn.html text="Kontakt" href="/kontakt/" class="show-contact-btn" %}
 
@@ -68,7 +54,6 @@ _program „szkoły rodzenia” dopasowany do indywidualnych potrzeb – wybiera
 
 **Wizyty domowe - 250zł** (ok. 2 godziny)
 - konsultacja laktacyjna
-- przygotowanie do porodu
 - wsparcie psychologiczne 
 
 _w cenę wliczony jest dojazd do 15 km od centrum Bielska-Białej_<br>
@@ -80,19 +65,9 @@ _dojeżdżam maksymalnie 50 km od Bielska-Białej (m.in. Żywiec, Cieszyn, Pszcz
 **Konsultacje online/telefoniczna - 140zł** (60 min)
 - konsultacja laktacyjna ([opis](/porady/2020/03/24/konsultacja-laktacyjna-online/))
 - wsparcie psychologiczne
-- indywidualne przygotowanie do porodu
 
 _czas trwania w zależności od potrzeb, koszt liczony wg czasu proporcjonalnie do stawki za godzinę (np. 30 minut - 70 zł, 15 minut - 35 zł)_
 
 <hr/>
 
-**Porady laktacyjne stacjonarnie w Żywcu - 200zł** (1,5 godziny)
-- raz w tygodniu, w środy
-
-Gniazdo - Specjalistyczne Centrum Mamy Taty i Dziecka, <a href="https://goo.gl/maps/6cVd3S6L4Xo6VxxU7">Żywiec, ul.&nbsp;Ks.&nbsp;Słonki&nbsp;22</a>
-
-_rezerwacja terminu w rejestracji Centrum Gniazdo, czynne 8.00-18.00, tel.&nbsp;<a href="tel:+48660 107 008">660&nbsp;107&nbsp;008</a>_
-
-<hr/>
-
-Terminy wizyt domowych, online i telefonicznych umawiaj bezpośrednio ze mną korzystając z linku  poniżej.
+Terminy wizyt umawiaj bezpośrednio ze mną korzystając z linku poniżej.
