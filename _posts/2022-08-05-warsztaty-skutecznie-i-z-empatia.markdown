@@ -1,12 +1,12 @@
 ---
 layout: default
 date: 2022-08-05
-img: warsztaty2_plakat_cover.jpg
+img: warsztaty2_cover.jpg
 # alt: Plakat - O co chodzi matkom?
 category: warsztaty
 description: Zapraszam do podróży, której celem jest m.in. przyjrzenie się Twojemu warsztatowi pracy jako profesjonalistki wspierającej w karmieniu piersią.
 title: >
-    'Skutecznie i z empatią' komunikacja w opiece laktacyjnej - warsztaty
+    'Skutecznie i z empatią'<br>komunikacja w opiece laktacyjnej - warsztaty
 show_contact: true
 ---
 
