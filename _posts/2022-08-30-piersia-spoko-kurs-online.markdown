@@ -6,7 +6,7 @@ img: piersia_spoko.jpg
 category: warsztaty
 description: Kurs dla mam oczekujących kolejnego dziecka, które doświadczyły niepowodzenia w karmieniu piersią i obawiają się, że im się znowu nie uda.
 title: >
-    Piersią spoko - karmienie bez presji i lęku - kurs online
+    'Piersią spoko'<br>karmienie bez presji i lęku - kurs online
 show_contact: true
 ---
 
@@ -14,7 +14,7 @@ Kurs dla mam oczekujących kolejnego dziecka, które doświadczyły niepowodzeni
  
 🤰Jesteś kobietą w ciąży z kolejnym dzieckiem?
 
-🤱Planujesz karmić piersią, ale masz wiele obaw, bo.......
+🤱Planujesz karmić piersią, ale masz wiele obaw, bo...
 
 👉 mimo chęci nie karmiłaś poprzedniego dziecka?<br>
 👉 uważasz, że zbyt szybko przeszłaś na butelkę?<br>
