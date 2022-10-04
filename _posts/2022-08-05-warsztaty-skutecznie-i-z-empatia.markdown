@@ -41,13 +41,13 @@ Dzięki warsztatom
 
 
 **Dla kogo:** osoby zajmujące się wspieraniem mam karmiących (doświadczenie minimum 2 lata): konsultantki/doradczynie laktacyjne, położne, doule, promotorki karmienia piersią, lekarki oraz inne zawody, gdzie wsparcie w laktacji jest ważnym elementem praktyki zawodowej <br>
-**Terminy warsztatów:** 
-- 1 edycja **Poznań**: sobota, **17 września 2022** (ul. Polna 31) - [formularz zapisów](https://forms.gle/nehtecyQvahw5hEb8) <br>
-- 2 edycja **Kraków**: sobota, **15 października 2022**  (ul. Dąbrowskiego 24) - [formularz zapisów](https://forms.gle/GxMYdHvq7ZYabohGA) <br>
+**Termin warsztatów:**  <br>
 **Czas:** 6 godzin, 10.00 – 17.00 (dwie przerwy 12.00-12.15, 14.15-15.00) <br>
 **Liczba uczestniczek:** 6 - 12 <br>
 **Inwestycja:** 600 zł, płatne przelewem po potwierdzeniu przyjęcia zgłoszenia, decyduje kolejność zgłoszeń
 
 <hr/>
+
+Jeśli chcesz zorganizować grupę warsztatową w swoim mieście, daj znać: kursy@malwinaokrzesik.pl. W zamian oferuję zniżkę w opłacie dla osoby organizującej grupę.
 
 Jeśli jesteś zainteresowana zapisem na moją listę mailową i otrzymywaniem informacji o innych prowadzonych przeze mnie szkoleniach dotyczących komunikacji  – [wypełnij formularz](https://forms.gle/A91tUdjFiKT8Y9Z66).
