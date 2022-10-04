@@ -20,7 +20,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}" />
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-  <meta property="og:title" content="{% if page.title %}Malwina Okrzesik IBCLC - {{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:title" content="{% if page.title %}Malwina Okrzesik IBCLC - {{ page.title | replace: '<br>', ' ' }}{% else %}{{ site.title }}{% endif %}" />
            
   <script type="application/ld+json">
   {
