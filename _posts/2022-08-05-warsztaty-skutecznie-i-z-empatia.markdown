@@ -42,6 +42,8 @@ Dzięki warsztatom
 
 **Dla kogo:** osoby zajmujące się wspieraniem mam karmiących (doświadczenie minimum 2 lata): konsultantki/doradczynie laktacyjne, położne, doule, promotorki karmienia piersią, lekarki oraz inne zawody, gdzie wsparcie w laktacji jest ważnym elementem praktyki zawodowej <br>
 **Termin warsztatów:**  <br>
+- 2 edycja **Kraków**: sobota, **15 października 2022**  (ul. Dąbrowskiego 24) - [formularz zapisów](https://forms.gle/GxMYdHvq7ZYabohGA) <br>
+
 **Czas:** 6 godzin, 10.00 – 17.00 (dwie przerwy 12.00-12.15, 14.15-15.00) <br>
 **Liczba uczestniczek:** 6 - 12 <br>
 **Inwestycja:** 600 zł, płatne przelewem po potwierdzeniu przyjęcia zgłoszenia, decyduje kolejność zgłoszeń
