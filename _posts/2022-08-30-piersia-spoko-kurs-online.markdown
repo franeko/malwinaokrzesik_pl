@@ -26,4 +26,4 @@ Zapisy na webinar: [formularz zapisów](https://forms.gle/ueE82PUqBJwcek2Z7)
 
 **Termin webinaru:** 29 października 2022
 
-**1 edycja kursu:** 16-30  października 2022
+**1 edycja kursu:** 16-30  listopada 2022
