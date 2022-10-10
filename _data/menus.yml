@@ -15,8 +15,8 @@ navbar:
 - url: "/warsztaty/2022/08/05/warsztaty-skutecznie-i-z-empatia/"
   title: Profesjonaliści
   identifier: profesjonalisci
-  weight: 1
+  weight: 2
 - url: "/#parents"
   title: Rodzice
   identifier: rodzice
-  weight: 2
+  weight: 1
