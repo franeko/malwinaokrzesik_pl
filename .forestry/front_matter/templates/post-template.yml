@@ -1,0 +1,31 @@
+---
+label: Post template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: img
+  label: img
+- type: file
+  name: post_img
+  label: post_img
+- type: text
+  name: alt
+  label: alt
+- type: text
+  name: category
+  label: category
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: show_contact
+  label: show_contact
