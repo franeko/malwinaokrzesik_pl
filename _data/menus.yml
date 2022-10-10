@@ -1,0 +1,23 @@
+---
+navbar:
+  - url: /#parents
+    title: Rodzice
+    identifier: rodzice
+    weight: 1
+  - url: /warsztaty/2022/08/05/warsztaty-skutecznie-i-z-empatia/
+    title: Profesjonaliści
+    identifier: profesjonalisci
+    weight: 2
+  - url: /oferta
+    title: Oferta
+    identifier: oferta
+    weight: 3
+  - url: /o-mnie
+    title: O mnie
+    identifier: o-mnie
+    weight: 4
+  - url: /#blog
+    title: O karmieniu
+    identifier: blog
+    weight: 5
+---

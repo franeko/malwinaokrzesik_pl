@@ -18,21 +18,11 @@
                     <li class="hidden">
                         <a href="/#page-top"></a>
                     </li>
-                    <li class="page-scroll">
-                        <a href="/#parents">Rodzice</a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="/warsztaty/2022/08/05/warsztaty-skutecznie-i-z-empatia/">Profesjonaliści</a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="/oferta">Oferta</a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="/o-mnie">O mnie</a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="/#blog">O karmieniu</a>
-                    </li>
+                    {% for item in site.menus.navbar %}
+                        <li class="page-scroll">
+                            <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+                        </li>
+                    {% endfor %}
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
