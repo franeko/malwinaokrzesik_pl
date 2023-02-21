@@ -5,7 +5,7 @@ img: piersia_spoko.jpg
 category: warsztaty
 description: Kurs dla mam oczekujących kolejnego dziecka, które doświadczyły niepowodzenia
   w karmieniu piersią i obawiają się, że im się znowu nie uda.
-title: "'Udane karmienie piersią bez presji i lęku - kurs online"
+title: '''Udane karmienie piersią bez presji, lęku i chaosu w głowie" - kurs online'
 show_contact: true
 
 ---
@@ -19,11 +19,4 @@ Kurs dla mam oczekujących kolejnego dziecka, które doświadczyły niepowodzeni
 👉 uważasz, że zbyt szybko przeszłaś na butelkę?<br>
 👉 martwisz się teraz, że po tym porodzie znowu Ci się nie uda?
 
-[Zapisz się](https://forms.gle/ueE82PUqBJwcek2Z7) na bezpłatny webinar wprowadzający w tematykę kursu.
-Podczas webinaru poznasz 3 filary dobrego przygotowania do karmienia piersią, które pomogą Ci osiągnąć to, czego pragniesz dla kolejnego dziecka.
-
-Zapisy na webinar: [formularz zapisów](https://forms.gle/ueE82PUqBJwcek2Z7)
-
-**Termin webinaru:** 29 października 2022
-
-**1 edycja kursu:** 16-30  listopada 2022
+Jesteś zainteresowana dołączeniem do programu ? Napisz do mnie kontakt@malwinaokrzesik.pl z zapytaniem, kiedy rusza kolejna edycja. 
