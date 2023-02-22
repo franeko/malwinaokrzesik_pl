@@ -9,7 +9,7 @@ title: '''Udane karmienie piersią bez presji, lęku i chaosu w głowie" - kurs 
 show_contact: true
 
 ---
-Kurs dla mam oczekujących kolejnego dziecka, które doświadczyły niepowodzenia w karmieniu piersią i obawiają się, że im się znowu nie uda.
+Kurs online  dla mam oczekujących kolejnego dziecka, które doświadczyły niepowodzenia w karmieniu piersią i obawiają się, że im się znowu nie uda.
 
 🤰Jesteś kobietą w ciąży z kolejnym dzieckiem?
 
@@ -19,4 +19,4 @@ Kurs dla mam oczekujących kolejnego dziecka, które doświadczyły niepowodzeni
 👉 uważasz, że zbyt szybko przeszłaś na butelkę?<br>
 👉 martwisz się teraz, że po tym porodzie znowu Ci się nie uda?
 
-Jesteś zainteresowana dołączeniem do programu ? Napisz do mnie kontakt@malwinaokrzesik.pl z zapytaniem, kiedy rusza kolejna edycja. 
+Jesteś zainteresowana dołączeniem do programu ? Napisz do mnie kontakt@malwinaokrzesik.pl z zapytaniem, kiedy rusza kolejna edycja kursu.
