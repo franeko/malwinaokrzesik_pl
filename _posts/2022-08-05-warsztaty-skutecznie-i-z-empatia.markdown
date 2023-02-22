@@ -50,6 +50,8 @@ Dzięki warsztatom
 
 <hr/>
 
+Chcesz wziąć udział w tym szkoleniu - napisz do mnie na adres: kursy@malwinaokrzesik.pl z zapytaniem,  kiedy rusza kolejna edycja.  
+
 Chcesz zorganizować grupę warsztatową w swoim mieście? - daj znać: kursy@malwinaokrzesik.pl. W zamian oferuję zniżkę w opłacie dla osoby organizującej grupę.
 
 Jesteś zainteresowana zapisem na moją listę mailową i otrzymywaniem informacji o innych prowadzonych przeze mnie szkoleniach dotyczących komunikacji?  – [wypełnij formularz](https://forms.gle/A91tUdjFiKT8Y9Z66).
