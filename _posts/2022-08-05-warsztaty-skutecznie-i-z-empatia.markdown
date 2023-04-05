@@ -59,7 +59,7 @@ Dzięki warsztatom
 
 sobota, 13 maja 2023, zapisy tutaj: [http://bit.ly/3zuzfep](http://bit.ly/3zuzfep "http://bit.ly/3zuzfep")
 
-**Gdańsk**: 
+**Gdańsk**:
 
 sobota, 3 czerwca 2023, zapisy tutaj: [http://bit.ly/3zvLE1w](http://bit.ly/3zvLE1w "http://bit.ly/3zvLE1w")
 
