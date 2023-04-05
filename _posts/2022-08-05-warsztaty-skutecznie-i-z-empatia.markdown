@@ -55,7 +55,7 @@ Dzięki warsztatom
 
 **Najbliższe edycje kursów:**
 
-**Dąbrowa Górnicza**: sobota, 13 maja 2023, [zapisy tutaj](http://bit.ly/3zuzfep).
+**Dąbrowa Górnicza**: sobota, 13 maja 2023, [zapisy tutaj](http://bit.ly/3zuzfep "Dąbrowa zapisy").
 
 **Gdańsk**: sobota, 3 czerwca 2023, [zapisy tutaj](http://bit.ly/3zvLE1w "Gdańsk zapisy").
 
