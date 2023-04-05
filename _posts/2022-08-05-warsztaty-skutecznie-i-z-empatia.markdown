@@ -11,7 +11,7 @@ show_contact: true
 ---
 Czy w Twojej zawodowej praktyce:
 
-* starasz się być mocno zaangażowana w to co robisz, pracujesz z pasją, ale czasem masz wrażenie, że angażujesz się dużo bardziej niż sami rodzice i to Tobie bardziej zależy?
+* starasz się być mocno zaangażowana w to co robisz, pracujesz z pasją, ale czasem masz wrażenie, że angażujesz się dużo bardziej niż sami rodzice i to Tobie bardziej zależy na efektach?
 * nie zawsze rozumiesz, dlaczego matka, która  dostała  od Ciebie dużo wsparcia i przydatnych wskazówek oraz deklaruje, że chce karmić piersią, po spotkaniu z Tobą nie stosuje się do zaleceń i robi zupełnie odwrotnie: np. podaje butelkę, gdy dziecko tylko trochę zapłacze?
 * trudno Ci postawić granice, gdy jesteście w kontakcie telefonicznym i matka zasypuje Cię pytaniami?
 * czujesz, że popełniasz jakieś błędy w komunikacji, ale nie wiesz jakie i co mogłabyś poprawić?
