@@ -52,15 +52,11 @@ Dzięki warsztatom
 
 <hr/>
 
-Najbliższe edycje kursów:
+**Najbliższe edycje kursów:**
 
-Dąbrowa Górnicza: sobota, 13 maja 2023
+**Dąbrowa Górnicza**: sobota, 13 maja 2023, zapisy tutaj: [http://bit.ly/3zuzfep](http://bit.ly/3zuzfep "http://bit.ly/3zuzfep")
 
-link do zapisów na 13 maja: [http://bit.ly/3zuzfep](http://bit.ly/3zuzfep "http://bit.ly/3zuzfep")
-
-Gdańsk: sobota, 3 czerwca 2023
-
-link do zapisów na 3 czerwca: [http://bit.ly/3zvLE1w](http://bit.ly/3zvLE1w "http://bit.ly/3zvLE1w")
+**Gdańsk**: sobota, 3 czerwca 2023, zapisy tutaj: [http://bit.ly/3zvLE1w](http://bit.ly/3zvLE1w "http://bit.ly/3zvLE1w")
 
 Chcesz zorganizować grupę warsztatową w swoim mieście? - daj znać: kursy@malwinaokrzesik.pl. W zamian oferuję zniżkę w opłacie dla osoby organizującej grupę.
 
