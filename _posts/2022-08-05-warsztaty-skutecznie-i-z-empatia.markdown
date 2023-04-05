@@ -12,7 +12,7 @@ show_contact: true
 Czy w Twojej zawodowej praktyce:
 
 * starasz się być mocno zaangażowana w to co robisz, pracujesz z pasją, ale czasem masz wrażenie, że angażujesz się dużo bardziej niż sami rodzice i to Tobie bardziej zależy?
-* nie zawsze rozumiesz, dlaczego matka, która deklaruje, że chce karmić piersią oraz dostała  od Ciebie dużo wsparcia i przydatnych wskazówek,  robi zupełnie odwrotnie i np.podaje mimo to butelkę, gdy dziecko tylko trochę zapłacze?
+* nie zawsze rozumiesz, dlaczego matka, która  dostała  od Ciebie dużo wsparcia i przydatnych wskazówek i deklaruje, że chce karmić piersią, po spotkaniu z Tobą nie stosuje się do zaleceń i robi zupełnie odwrotnie: np.podaje butelkę, gdy dziecko tylko trochę zapłacze?
 * trudno Ci postawić granice, gdy jesteście w kontakcie telefonicznym i matka zasypuje Cię pytaniami?
 * czujesz, że popełniasz jakieś błędy w komunikacji, ale nie wiesz jakie i co mogłabyś poprawić?
 
@@ -28,7 +28,7 @@ Podczas warsztatu:
 
 * ukierunkowanie na potrzeby matki – ja je zobaczyć, nazwać i realizować
 * udzielanie informacji – czyli jak mówić zrozumiale?  co stanowi bariery w komunikacji?
-* edukacja i uczenie – jak przekazywać praktyczne wskazówki, aby budowały w matce wiarę w siebie i dawały jej moc
+* edukacja i uczenie – jak przekazywać praktyczne wskazówki, aby budowały w matce wiarę w siebie i dawały jej moc, a nie były kolejną "dobrą radą"
 * dawanie wsparcia – czym jest, a czym nie jest empatia, oraz jak uważnie i autentycznie  słuchać?
 
 1. Zastanowimy się jakie są Twoje wyzwania: dlaczego z niektórymi rodzicami pracuje się  łatwiej, a z innymi jest nam trudniej a może  pewnych osób "nie lubisz".
@@ -60,7 +60,7 @@ link do zapisów na 13 maja: [http://bit.ly/3zuzfep](http://bit.ly/3zuzfep "http
 
 Gdańsk: sobota, 3 czerwca 2023
 
-link do zapisów na 3 czerwca: [http://bit.ly/3zvLE1w](http://bit.ly/3zvLE1w "http://bit.ly/3zvLE1w")  
+link do zapisów na 3 czerwca: [http://bit.ly/3zvLE1w](http://bit.ly/3zvLE1w "http://bit.ly/3zvLE1w")
 
 Chcesz zorganizować grupę warsztatową w swoim mieście? - daj znać: kursy@malwinaokrzesik.pl. W zamian oferuję zniżkę w opłacie dla osoby organizującej grupę.
 
