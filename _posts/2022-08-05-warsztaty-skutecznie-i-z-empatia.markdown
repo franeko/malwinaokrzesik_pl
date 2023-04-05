@@ -12,7 +12,7 @@ show_contact: true
 Czy w Twojej zawodowej praktyce:
 
 * starasz się być mocno zaangażowana w to co robisz, pracujesz z pasją, ale czasem masz wrażenie, że angażujesz się dużo bardziej niż sami rodzice i to Tobie bardziej zależy?
-* nie zawsze rozumiesz, dlaczego matka, która  dostała  od Ciebie dużo wsparcia i przydatnych wskazówek i deklaruje, że chce karmić piersią, po spotkaniu z Tobą nie stosuje się do zaleceń i robi zupełnie odwrotnie: np.podaje butelkę, gdy dziecko tylko trochę zapłacze?
+* nie zawsze rozumiesz, dlaczego matka, która  dostała  od Ciebie dużo wsparcia i przydatnych wskazówek oraz deklaruje, że chce karmić piersią, po spotkaniu z Tobą nie stosuje się do zaleceń i robi zupełnie odwrotnie: np. podaje butelkę, gdy dziecko tylko trochę zapłacze?
 * trudno Ci postawić granice, gdy jesteście w kontakcie telefonicznym i matka zasypuje Cię pytaniami?
 * czujesz, że popełniasz jakieś błędy w komunikacji, ale nie wiesz jakie i co mogłabyś poprawić?
 
@@ -22,7 +22,7 @@ Zapraszam do podróży, której celem jest przyjrzenie się, przy wsparciu kamer
 
 Podczas warsztatu:
 
-1. Poszukamy odpowiedzi na pytania o swoje wartości i intencje w pracy:  Co mnie napędza, dlaczego robię, to co robię, skąd biorę siłę i jak ma się do tego moje osobiste doświadczenie jako matki?
+1. Poszukamy odpowiedzi na pytania o swoje wartości i intencje w pracy:  co mnie napędza, dlaczego robię, to co robię, skąd biorę siłę i jak ma się do tego moje osobiste doświadczenie jako matki?
 2. Zastanowimy się czy matka karmiąca to dla Ciebie  pacjentka czy klientka i jak Twoje spojrzenie na nią wpływa na  Waszą relację podczas spotkania?
 3. Obejrzymy "pod mikroskopem" 4 elementy profesjonalnej postawy w opiece laktacyjnej:
 
@@ -48,6 +48,7 @@ Dzięki warsztatom
 
 **Czas:** 6 godzin, 10.00 – 17.00 (dwie przerwy 12.00-12.15, 14.15-15.00) <br>
 **Liczba uczestniczek:** 6 - 12 <br>
+
 **Inwestycja:** 600 zł, płatne przelewem po potwierdzeniu przyjęcia zgłoszenia, decyduje kolejność zgłoszeń
 
 <hr/>
