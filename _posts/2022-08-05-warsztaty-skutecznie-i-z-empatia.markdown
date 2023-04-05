@@ -11,7 +11,7 @@ show_contact: true
 ---
 Czy w Twojej zawodowej praktyce:
 
-* starasz się być mocno zaangażowana w to co robisz, pracujesz z pasją, ale czasem masz wrażenie, że angażujesz się dużo bardziej niż sami rodzice i Tonie bardziej zależy?
+* starasz się być mocno zaangażowana w to co robisz, pracujesz z pasją, ale czasem masz wrażenie, że angażujesz się dużo bardziej niż sami rodzice i to Tobie bardziej zależy?
 * nie zawsze rozumiesz, dlaczego matka, która deklaruje, że chce karmić piersią oraz dostała  od Ciebie dużo wsparcia i przydatnych wskazówek,  robi zupełnie odwrotnie i np.podaje mimo to butelkę, gdy dziecko tylko trochę zapłacze?
 * trudno Ci postawić granice, gdy jesteście w kontakcie telefonicznym i matka zasypuje Cię pytaniami?
 * czujesz, że popełniasz jakieś błędy w komunikacji, ale nie wiesz jakie i co mogłabyś poprawić?
@@ -42,9 +42,10 @@ Dzięki warsztatom
 * Z większą łatwością i swobodą zbudujesz kontakt z mamą karmiącą, dasz jej więcej empatii i zrozumienia, jednocześnie dbając o siebie
 * Wyposażysz się we wspólnie opracowany "pakiet" dobrych praktyk, dobrych słów i wspierających działań do  zastosowania przez Ciebie "od zaraz"
 * Twoje zaangażowanie w pracę da Ci więcej radości, siły i wolności
-* Zbudujesz zawodową "wioskę wsparcia" (zamknięta grupa na FB dla uczestniczek warsztatów)
+* Dostaniesz dobrą energię od pozostałych uczestniczek warsztatów - osób, które chcą rozwijać swoje umiejętności komunikacji w pracy zawodowej.
 
 **Dla kogo:** osoby zajmujące się wspieraniem mam karmiących (doświadczenie minimum 2 lata): konsultantki/doradczynie laktacyjne, położne, doule, promotorki karmienia piersią, lekarki oraz inne zawody, gdzie wsparcie w laktacji jest ważnym elementem praktyki zawodowej <br>
+
 **Czas:** 6 godzin, 10.00 – 17.00 (dwie przerwy 12.00-12.15, 14.15-15.00) <br>
 **Liczba uczestniczek:** 6 - 12 <br>
 **Inwestycja:** 600 zł, płatne przelewem po potwierdzeniu przyjęcia zgłoszenia, decyduje kolejność zgłoszeń
@@ -53,11 +54,11 @@ Dzięki warsztatom
 
 Najbliższe edycje kursów:
 
-Dąbrowa Górnicza: 13 maja 2023, sobota
+Dąbrowa Górnicza: sobota, 13 maja 2023
 
 link do zapisów na 13 maja: [http://bit.ly/3zuzfep](http://bit.ly/3zuzfep "http://bit.ly/3zuzfep")
 
-Gdańsk: 3 czerwca 2023, sobota,
+Gdańsk: sobota, 3 czerwca 2023
 
 link do zapisów na 3 czerwca: [http://bit.ly/3zvLE1w](http://bit.ly/3zvLE1w "http://bit.ly/3zvLE1w")  
 
