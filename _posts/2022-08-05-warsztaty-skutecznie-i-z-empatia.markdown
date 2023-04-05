@@ -61,7 +61,9 @@ Dzięki warsztatom
 
 Jedna z uczestniczek poprzedniej edycji tak podsumowała sens udział w warsztacie: **"_uczymy się jak pracować i się nie irytować, nie zajechać i nie wściekać"._**
 
-Tak, na warsztatach uczymy się mądrze towarzyszyć.
+Tak, o tym też są te warsztaty. 
+
+Po prostu uczymy się mądrze towarzyszyć matkom.
 
 Zapraszam !
 
