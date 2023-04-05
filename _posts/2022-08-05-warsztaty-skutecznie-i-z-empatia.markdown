@@ -35,7 +35,7 @@ Podczas warsztatu:
 * dawanie wsparcia – czym jest, a czym nie jest empatia, oraz jak uważnie i autentycznie  słuchać? jak rozumieć potrzeby matki?
 * udzielanie informacji – czyli jak mówić zrozumiale? jak przekazywać wiedzę i zalecenia?  co stanowi bariery w komunikacji?
 * edukacja i uczenie – jak przekazywać praktyczne wskazówki, aby budowały w matce wiarę w siebie i dawały jej moc, a nie były kolejną "dobrą radą"
-* motywowanie do działania - co robić, aby nasze wskazówki rzeczywiście pomagały matkom i były przez nie stosowane? jak zachęcać je do wprowadzania zmian służących karmieniu piersią? 
+* motywowanie do działania - co robić, aby nasze wskazówki rzeczywiście pomagały matkom i były przez nie stosowane? jak zachęcać je do wprowadzania zmian służących karmieniu piersią?
 
 1. Zastanowimy się jakie są Twoje wyzwania: dlaczego z niektórymi rodzicami pracuje się  łatwiej, a z innymi jest nam trudniej a może  pewnych osób "nie lubisz".
 2. Odpowiemy na pytanie czy rzeczywiście porada laktacyjna jest poradą medyczną?
@@ -59,11 +59,9 @@ Dzięki warsztatom
 
 <hr/>
 
-Jedna z uczestniczek poprzedniej edycji tak podsumowała sens udział w warsztacie: **"_uczymy się jak pracować i się nie irytować, nie zajechać i nie wściekać"._**
+Jedna z uczestniczek poprzedniej edycji, na koniec tak podsumowała sens udziału w warsztacie: **"_uczymy się jak pracować i się nie irytować, nie zajechać i nie wściekać"._**
 
-Tak, o tym też są te warsztaty. 
-
-Po prostu uczymy się mądrze towarzyszyć matkom.
+Tak, o tym też są te warsztaty. Po prostu uczymy się dobrze i mądrze towarzyszyć matkom.
 
 Zapraszam !
 
