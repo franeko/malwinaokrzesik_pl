@@ -59,6 +59,10 @@ Dzięki warsztatom
 
 <hr/>
 
+Jedna z uczestniczek poprzedniej edycji tak podsumowała sens udział w warsztacie: **"_uczymy się jak pracować i się nie irytować, nie zajechać i nie wściekać"._**
+
+Tak, tego też się uczymy. Zapraszam !
+
 Chcesz zorganizować grupę warsztatową w swoim mieście? - daj znać: kursy@malwinaokrzesik.pl. W zamian oferuję zniżkę w opłacie dla osoby organizującej grupę.
 
 Jesteś zainteresowana zapisem na moją listę mailową i otrzymywaniem informacji o innych prowadzonych przeze mnie szkoleniach dotyczących komunikacji?  – [wypełnij formularz](https://forms.gle/A91tUdjFiKT8Y9Z66).
