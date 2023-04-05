@@ -11,13 +11,14 @@ show_contact: true
 ---
 Czy w Twojej zawodowej praktyce:
 
-* starasz się być mocno zaangażowana w to co robisz, pracujesz z pasją, ale czasem masz wrażenie, że angażujesz się dużo bardziej niż sami rodzice?
-* nie zawsze rozumiesz, dlaczego matka, która deklaruje, że chce karmić piersią oraz dostała  od Ciebie dużo wsparcia i przydatnych wskazówek,  podaje mimo to butelkę, gdy dziecko tylko trochę zapłacze?
+* starasz się być mocno zaangażowana w to co robisz, pracujesz z pasją, ale czasem masz wrażenie, że angażujesz się dużo bardziej niż sami rodzice i Tonie bardziej zależy?
+* nie zawsze rozumiesz, dlaczego matka, która deklaruje, że chce karmić piersią oraz dostała  od Ciebie dużo wsparcia i przydatnych wskazówek,  robi zupełnie odwrotnie i np.podaje mimo to butelkę, gdy dziecko tylko trochę zapłacze?
 * trudno Ci postawić granice, gdy jesteście w kontakcie telefonicznym i matka zasypuje Cię pytaniami?
+* czujesz, że popełniasz jakieś błędy w komunikacji, ale nie wiesz jakie i co mogłabyś poprawić?
 
 <hr/>
 
-Zapraszam do podróży, której celem jest przyjrzenie się, przy wsparciu kameralnej grupy,  Twojemu warsztatowi pracy jako profesjonalistki wspierającej w karmieniu piersią. To spotkanie ze sobą, otwarcie głowy oraz serca i poszukiwanie odpowiedzi na pytania: kim jestem w praktyce zawodowej? jak działam w relacji z mamą karmiącą i jak się z nią komunikuję? Jak mogę się rozwijać, aby praca dawała mi ciągle radość?
+Zapraszam do podróży, której celem jest przyjrzenie się, przy wsparciu kameralnej grupy,  Twojemu warsztatowi pracy jako profesjonalistki wspierającej w karmieniu piersią. To spotkanie ze sobą, otwarcie głowy oraz serca i poszukiwanie odpowiedzi na pytania: kim jestem w praktyce zawodowej? jak działam w relacji z mamą karmiącą i jak się z nią komunikuję? Jak mogę się rozwijać, aby praca dawała mi ciągle radość? Jak działać skutecznie?
 
 Podczas warsztatu:
 
@@ -26,12 +27,12 @@ Podczas warsztatu:
 3. Obejrzymy "pod mikroskopem" 4 elementy profesjonalnej postawy w opiece laktacyjnej:
 
 * ukierunkowanie na potrzeby matki – ja je zobaczyć, nazwać i realizować
-* udzielanie informacji – czyli jak to powiedzieć inaczej? – język medyczny jako bariery w komunikacji
+* udzielanie informacji – czyli jak mówić zrozumiale?  co stanowi bariery w komunikacji?
 * edukacja i uczenie – jak przekazywać praktyczne wskazówki, aby budowały w matce wiarę w siebie i dawały jej moc
-* dawanie wsparcia – czym jest empatia, uważność i autentyczne  słuchanie
+* dawanie wsparcia – czym jest, a czym nie jest empatia, oraz jak uważnie i autentycznie  słuchać?
 
 1. Zastanowimy się jakie są Twoje wyzwania: dlaczego z niektórymi rodzicami pracuje się  łatwiej, a z innymi jest nam trudniej a może  pewnych osób "nie lubisz".
-2. Odpowiemy na pytanie czy porada laktacyjna jest poradą medyczną?
+2. Odpowiemy na pytanie czy rzeczywiście porada laktacyjna jest poradą medyczną?
 3. Poszukamy pomysłów jak znajdować równowagę miedzy zaangażowaniem a zadbaniem o siebie? (czyli jak mieć frajdę z pracy i się nie wypalić).
 
 Dzięki warsztatom
@@ -50,7 +51,15 @@ Dzięki warsztatom
 
 <hr/>
 
-Chcesz wziąć udział w tym szkoleniu - napisz do mnie na adres: kursy@malwinaokrzesik.pl z zapytaniem,  kiedy rusza kolejna edycja.  
+Najbliższe edycje kursów:
+
+Dąbrowa Górnicza: 13 maja 2023, sobota
+
+link do zapisów na 13 maja: [http://bit.ly/3zuzfep](http://bit.ly/3zuzfep "http://bit.ly/3zuzfep")
+
+Gdańsk: 3 czerwca 2023, sobota,
+
+link do zapisów na 3 czerwca: [http://bit.ly/3zvLE1w](http://bit.ly/3zvLE1w "http://bit.ly/3zvLE1w")  
 
 Chcesz zorganizować grupę warsztatową w swoim mieście? - daj znać: kursy@malwinaokrzesik.pl. W zamian oferuję zniżkę w opłacie dla osoby organizującej grupę.
 
