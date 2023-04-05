@@ -20,6 +20,12 @@ Czy w Twojej zawodowej praktyce:
 
 Zapraszam do podróży, której celem jest przyjrzenie się, przy wsparciu kameralnej grupy,  Twojemu warsztatowi pracy jako profesjonalistki wspierającej w karmieniu piersią. To spotkanie ze sobą, otwarcie głowy oraz serca i poszukiwanie odpowiedzi na pytania: kim jestem w praktyce zawodowej? jak działam w relacji z mamą karmiącą i jak się z nią komunikuję? Jak mogę się rozwijać, aby praca dawała mi ciągle radość? Jak działać skutecznie?
 
+**Najbliższe edycje kursów:**
+
+**Dąbrowa Górnicza**: sobota, 13 maja 2023, [zapisy tutaj](http://bit.ly/3zuzfep "Dąbrowa zapisy").
+
+**Gdańsk**: sobota, 3 czerwca 2023, [zapisy tutaj](http://bit.ly/3zvLE1w "Gdańsk zapisy").
+
 Podczas warsztatu:
 
 1. Poszukamy odpowiedzi na pytania o swoje wartości i intencje w pracy:  co mnie napędza, dlaczego robię, to co robię, skąd biorę siłę i jak ma się do tego moje osobiste doświadczenie jako matki?
@@ -52,12 +58,6 @@ Dzięki warsztatom
 **Inwestycja:** 600 zł, płatne przelewem po potwierdzeniu przyjęcia zgłoszenia, decyduje kolejność zgłoszeń
 
 <hr/>
-
-**Najbliższe edycje kursów:**
-
-**Dąbrowa Górnicza**: sobota, 13 maja 2023, [zapisy tutaj](http://bit.ly/3zuzfep "Dąbrowa zapisy").
-
-**Gdańsk**: sobota, 3 czerwca 2023, [zapisy tutaj](http://bit.ly/3zvLE1w "Gdańsk zapisy").
 
 Chcesz zorganizować grupę warsztatową w swoim mieście? - daj znać: kursy@malwinaokrzesik.pl. W zamian oferuję zniżkę w opłacie dla osoby organizującej grupę.
 
