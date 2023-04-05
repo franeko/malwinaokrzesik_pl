@@ -30,7 +30,7 @@ Podczas warsztatu:
 
 1. Poszukamy odpowiedzi na pytania o swoje wartości i intencje w pracy:  co mnie napędza, dlaczego robię, to co robię, skąd biorę siłę i jak ma się do tego moje osobiste doświadczenie jako matki?
 2. Zastanowimy się czy matka karmiąca to dla Ciebie  pacjentka czy klientka i jak Twoje spojrzenie na nią wpływa na  Waszą relację podczas spotkania?
-3. Obejrzymy "pod mikroskopem" i przećwiczymy na przykładach 4 sposoby wspierania matek, będące jednocześnie filarami profesjonalnej postawy w opiece laktacyjnej:
+3. Obejrzymy "pod mikroskopem" i przećwiczymy na przykładach 4 drogi do wspierania matek, które jednocześnie stanowią filary profesjonalnej postawy w opiece laktacyjnej:
 
 * dawanie wsparcia – czym jest, a czym nie jest empatia, oraz jak uważnie i autentycznie  słuchać? jak rozumieć potrzeby matki?
 * udzielanie informacji – czyli jak mówić zrozumiale? jak przekazywać wiedzę i zalecenia?  co stanowi bariery w komunikacji?
