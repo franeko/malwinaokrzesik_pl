@@ -30,12 +30,12 @@ Podczas warsztatu:
 
 1. Poszukamy odpowiedzi na pytania o swoje wartości i intencje w pracy:  co mnie napędza, dlaczego robię, to co robię, skąd biorę siłę i jak ma się do tego moje osobiste doświadczenie jako matki?
 2. Zastanowimy się czy matka karmiąca to dla Ciebie  pacjentka czy klientka i jak Twoje spojrzenie na nią wpływa na  Waszą relację podczas spotkania?
-3. Obejrzymy "pod mikroskopem" 4 elementy profesjonalnej postawy w opiece laktacyjnej:
+3. Obejrzymy "pod mikroskopem" i przećwiczymy na przykładach 4 sposoby wspierania matek, będące jednocześnie filarami profesjonalnej postawy w opiece laktacyjnej:
 
-* ukierunkowanie na potrzeby matki – ja je zobaczyć, nazwać i realizować
-* udzielanie informacji – czyli jak mówić zrozumiale?  co stanowi bariery w komunikacji?
+* dawanie wsparcia – czym jest, a czym nie jest empatia, oraz jak uważnie i autentycznie  słuchać? jak rozumieć potrzeby matki?
+* udzielanie informacji – czyli jak mówić zrozumiale? jak przekazywać wiedzę i zalecenia?  co stanowi bariery w komunikacji?
 * edukacja i uczenie – jak przekazywać praktyczne wskazówki, aby budowały w matce wiarę w siebie i dawały jej moc, a nie były kolejną "dobrą radą"
-* dawanie wsparcia – czym jest, a czym nie jest empatia, oraz jak uważnie i autentycznie  słuchać?
+* motywowanie do działania - co robić, aby nasze wskazówki rzeczywiście pomagały matkom i były przez nie stosowane? jak zachęcać je do wprowadzania zmian służących karmieniu piersią? 
 
 1. Zastanowimy się jakie są Twoje wyzwania: dlaczego z niektórymi rodzicami pracuje się  łatwiej, a z innymi jest nam trudniej a może  pewnych osób "nie lubisz".
 2. Odpowiemy na pytanie czy rzeczywiście porada laktacyjna jest poradą medyczną?
@@ -61,7 +61,9 @@ Dzięki warsztatom
 
 Jedna z uczestniczek poprzedniej edycji tak podsumowała sens udział w warsztacie: **"_uczymy się jak pracować i się nie irytować, nie zajechać i nie wściekać"._**
 
-Tak, tego też się uczymy. Zapraszam !
+Tak, na warsztatach uczymy się mądrze towarzyszyć.
+
+Zapraszam !
 
 Chcesz zorganizować grupę warsztatową w swoim mieście? - daj znać: kursy@malwinaokrzesik.pl. W zamian oferuję zniżkę w opłacie dla osoby organizującej grupę.
 
