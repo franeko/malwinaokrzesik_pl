@@ -44,6 +44,8 @@ W czym i kiedy pomagam?
 * trudno ci się odnaleźć w roli mamy, nie czujesz „instynktu macierzyńskiego”
 * szukasz równowagi między dobrą opieką nad dzieckiem a innymi swoimi aktywnościami (np. sport, hobby, praca, nauka)
 
+[>> Dowiedz się więcej <<](/porady/2023/11/27/psychologia-okoloporodowa)
+
 {% include btn.html text="Kontakt" href="/kontakt/" class="show-contact-btn" %}
 
 <br>
@@ -52,20 +54,29 @@ W czym i kiedy pomagam?
 
 ### Cennik
 
-**Wizyty domowe - 280zł** (ok. 2 godziny)
+**Konsultacje w gabinecie**
+
+* porada laktacyjna - 250zł (90min)
+* wsparcie psychologiczne - 180zł (60 min)
+
+[Przychodnia Centrum Rodziny, Plac Wolności 2/1](https://maps.app.goo.gl/7CmZTS57Dg2cQBSH9)
+<br>Rejestracja: [33 300 33 12](tel:33 300 33 12)
+
+
+**Wizyty domowe - 300zł** (ok. 2 godziny)
 
 * konsultacja laktacyjna
 * wsparcie psychologiczne
 
-_w cenę wliczony jest dojazd do 10 km od centrum Bielska-Białej_<br> _powyżej – dodatkowo 2 zł za 1 kilometr powyżej 10 km, liczone w obie strony_<br>
+_w cenę wliczony jest dojazd do 10 km od centrum Bielska-Białej_<br> _dodatkowo 2 zł za 1 kilometr powyżej 10 km, liczone w obie strony_<br>
 _dojeżdżam maksymalnie 50 km od Bielska-Białej (m.in. Żywiec, Cieszyn, Pszczyna, Oświęcim, Andrychów i okolice tych miejscowości)_
 
 <hr/>
 
 **Konsultacje online/telefoniczna - 160zł** (60 min)
 
-* konsultacja laktacyjna ([opis](/porady/2020/03/24/konsultacja-laktacyjna-online/))
-* wsparcie psychologiczne
+* [konsultacja laktacyjna](/porady/2020/03/24/konsultacja-laktacyjna-online/)
+* [wsparcie psychologiczne](/porady/2023/11/27/psychologia-okoloporodowa)
 
 _czas trwania w zależności od potrzeb, koszt liczony wg czasu proporcjonalnie do stawki za godzinę (np. 30 minut - 80 zł, 15 minut - 40 zł)_
 
