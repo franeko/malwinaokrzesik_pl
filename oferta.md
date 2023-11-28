@@ -73,7 +73,7 @@ _dojeżdżam maksymalnie 50 km od Bielska-Białej (m.in. Żywiec, Cieszyn, Pszcz
 
 <hr/>
 
-**Konsultacje online/telefoniczna - 160zł** (60 min)
+**Konsultacje online/telefoniczna - 180zł** (60 min)
 
 * [konsultacja laktacyjna](/porady/2020/03/24/konsultacja-laktacyjna-online/)
 * [wsparcie psychologiczne](/porady/2023/11/27/psychologia-okoloporodowa)
